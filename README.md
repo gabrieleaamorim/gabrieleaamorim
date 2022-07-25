@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning .C#, .NET and database relational
+- 🌱 I’m currently learning .C#, .NET and relational database(MySQL)
 - 📫 How to reach me: gabriele.amorim35@gmail.com
 - 😄 Pronouns: ela/dela
 
