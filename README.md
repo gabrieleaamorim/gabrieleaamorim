@@ -32,4 +32,10 @@
  	<a href = "mailto:gabriele.amorim35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriele-amorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+ ##
+  <div style="display: inline_block">
+    <img align="center" alt="Gabi-DP" height="80" width="90" src="https://media.discordapp.net/attachments/942098030088310834/1001146061081018418/microsoft-certified-azure-data-fundamentals.png?width=587&height=587">
+    <img align="center" alt="Gabi-MTA" height="80" width="90" src="https://media.discordapp.net/attachments/942098030088310834/1001166192851025950/mta-introduction-to-programming-using-html-and-css-certified-2022.png?width=587&height=587">
+    <img align="center" alt="Gabi-MTA" height="80" width="90" src="https://media.discordapp.net/attachments/942098030088310834/1001168675186946088/scrum-foundation-professional-certificate-sfpc.1.png?width=587&height=587">
+  </div>
 
