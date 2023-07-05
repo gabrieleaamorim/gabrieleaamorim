@@ -34,8 +34,9 @@
   
  ##
   <div style="display: inline_block">
-    <img align="center" alt="Gabi-DP" height="80" width="90" src="https://media.discordapp.net/attachments/942098030088310834/1001146061081018418/microsoft-certified-azure-data-fundamentals.png?width=587&height=587">
+    <img align="center" alt="DP-900" height="80" width="90" src="https://media.discordapp.net/attachments/942098030088310834/1001146061081018418/microsoft-certified-azure-data-fundamentals.png?width=587&height=587">
     <img align="center" alt="Gabi-MTA" height="80" width="90" src="https://media.discordapp.net/attachments/942098030088310834/1001166192851025950/mta-introduction-to-programming-using-html-and-css-certified-2022.png?width=587&height=587">
-    <img align="center" alt="Gabi-MTA" height="80" width="90" src="https://media.discordapp.net/attachments/942098030088310834/1001168675186946088/scrum-foundation-professional-certificate-sfpc.1.png?width=587&height=587">
+    <img align="center" alt="Scrum" height="80" width="90" src="https://media.discordapp.net/attachments/942098030088310834/1001168675186946088/scrum-foundation-professional-certificate-sfpc.1.png?width=587&height=587">
+    <img align="center" alt="SC-900" height="80" width="90" src="https://www.credly.com/badges/c57c5328-0215-4139-9690-110ebdd37047/public_url">
   </div>
 
