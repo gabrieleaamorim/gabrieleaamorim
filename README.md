@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning Java, Spring Boot and relational database(MySQL), but I also have knowledge in C# and .NET;
+- 🌱 I’m currently learning Node.JS and Nest.JS, with programming language Typescript.
 - 📫 How to reach me: gabriele.amorim35@gmail.com
 - 😄 Pronouns: ela/dela
 
