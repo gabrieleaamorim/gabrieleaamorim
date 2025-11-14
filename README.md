@@ -6,6 +6,19 @@ Sou **Sr Assoc, Back-End Developer** com experiência em desenvolvimento de apli
 
 ---
 
+📈 Estatísticas do GitHub
+https://github-readme-stats.vercel.app/api?username=gabrieleaamorim&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleaamorim&layout=compact&theme=radical
+
+---
+
+📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-amorim/)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrieleaamorim)
+
+---
+
 ## 🖼️ Minha Stack & Arquitetura
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/d33f1156-bf00-4272-9740-0c7e0bf0a7d0" />
 
