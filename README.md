@@ -7,7 +7,7 @@ Sou **Sr Assoc, Back-End Developer** com experiência em desenvolvimento de apli
 ---
 
 ## 🖼️ Minha Stack & Arquitetura
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d33f1156-bf00-4272-9740-0c7e0bf0a7d0" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/d33f1156-bf00-4272-9740-0c7e0bf0a7d0" />
 
 ---
 
