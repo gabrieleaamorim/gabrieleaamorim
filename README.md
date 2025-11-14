@@ -7,30 +7,35 @@ Sou **Sr Assoc, Back-End Developer** com experiência sólida em desenvolvimento
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the=node.js&logoColor=white
-![NestJS](https://img.shields.io/badge/NestJS-E023or-the-badge&logo=nestjs&logoColor=white
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoMongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColorcker](https://img.shields.io/badge/Docker-2496ED?style=for&logo=docker&logoColor=white
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&t&logoColor=white
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=whitehttps://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColorps://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Mongo.db](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&t&logoColor=white)
 
 ---
 
 ## 🎓 Certificações
-- ✅ **DP-900**: Azure Data Fundamentals  
-- ✅ **SC-900**: Security, Compliance, and Identity Fundamentals  
-- ✅ **AI-900**: Azure AI Fundamentals  
+![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)
+![SC-900](https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?styleadge&logo=microsoft)
+![AI-900](https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoft)
 
----
+Projetos
+- https://github.com/seuusuario/projeto1  
+  *Autenticação JWT, integração com MongoDB e boas práticas de segurança.*
 
-## 📂 Projetos
-- [**API de Autenticação com NestJS**](https://github.com/seuusuariogração com MongoDB e boas práticas de segurança.*
-
-- https://github.com/seuusuario/projeto2  
-  *Arquitetura baseada em eventos, mensageria e escalabilidade.*
+- [Projeto 2](https://github.com/seuusuario/projetotetura baseada em eventos, mensageria e escalabilidade.*
 
 ---
 
 ## 📈 Estatísticas do GitHub
-![Gabriele GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
-edIn](https://www.linkedin.com/in/se https://github.com/seuusuario
-- ✉️ Email: seuemail@dominio.com
+---
+
+## 🖼️ Diagrama da Stack
+```mermaid
+graph TD;
+    A[Cliente] --> B[API Node.js/NestJS]
+    B --> C[TypeScript]
+    B --> D[MongoDB]
+    B --> E[Docker]
