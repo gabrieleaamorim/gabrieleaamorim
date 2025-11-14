@@ -12,7 +12,7 @@ Sou **Sr Assoc, Back-End Developer** com experiência em desenvolvimento de apli
 
 ---
 
-📫 Contato
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-amorim/)
 [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrieleaamorim)
@@ -41,6 +41,17 @@ Sou **Sr Assoc, Back-End Developer** com experiência em desenvolvimento de apli
 
 ---
 
+## 🚀 Projetos
+
+**Descrição:**  
+Este é um projeto divertido chamado **Jogo do Número Secreto**, desenvolvido para praticar **lógica de programação** utilizando **JavaScript**.  
+O objetivo é adivinhar o número secreto com dicas interativas, reforçando conceitos como variáveis, loops e condicionais.
+
+🔗 **Acesse o projeto aqui:** 
+https://gabrieleaamorim.github.io/jogo-do-numero-secreto/
+
+---
+
 ## 🖼️ Arquitetura
 ```mermaid
 graph TD
@@ -56,3 +67,5 @@ graph TD
     A --> K(GitHub Copilot)
     A --> L(Arquitetura Hexagonal)
     A --> M(Domain-Driven Design)
+
+
