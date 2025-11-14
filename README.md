@@ -6,9 +6,9 @@ Sou **Sr Assoc, Back-End Developer** com experiência em desenvolvimento de apli
 
 ---
 
-📈 Estatísticas do GitHub
-https://github-readme-stats.vercel.app/api?username=gabrieleaamorim&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleaamorim&layout=compact&theme=radical
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieleaamorim&show_icons=true&theme//github-readme-stats.vercel.app/api/top-langs/?username=gabrieleaamorim&layout=compact&theme=radical)
 
 ---
 
