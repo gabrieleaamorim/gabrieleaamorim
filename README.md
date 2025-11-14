@@ -32,10 +32,18 @@ Projetos
 
 ---
 
-## 🖼️ Diagrama da Stack
+
+## 🖼️ Minha Stack
+
 ```mermaid
-graph TD;
-    A[Cliente] --> B[API Node.js/NestJS]
-    B --> C[TypeScript]
-    B --> D[MongoDB]
-    B --> E[Docker]
+graph TD
+    A[Back-End Developer] --> B(Node.js)
+    A --> C(NestJS)
+    A --> D(TypeScript)
+    A --> E(MongoDB)
+    A --> F(Microserviços)
+    F --> G(Service Bus)
+    A --> H(Azure Cloud)
+    H --> I(Azure Functions)
+    H --> J(Azure Storage)
+    A --> K(GitHub Copilot)
