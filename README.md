@@ -16,7 +16,7 @@ Sou **Sr Assoc, Back-End Developer** com experiência sólida em desenvolvimento
 
 ## 🎓 Certificações
 ![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)
-![SC-900](https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?styleadge&logo=microsoft)
+![SC-900](https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft)
 ![AI-900](https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoft)
 
 Projetos
